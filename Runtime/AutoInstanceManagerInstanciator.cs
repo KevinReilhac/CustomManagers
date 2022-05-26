@@ -13,7 +13,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Kebab.Managers
+namespace Kebab.Managers.Utils
 {
 	/// <summary>
 	/// Instanciate all AutoInstanceManagers
